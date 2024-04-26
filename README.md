@@ -2,3 +2,4 @@
 # Python_stat
 # SQL
 # Machine Learning
+# R-programmering
