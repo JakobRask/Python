@@ -1,0 +1,25 @@
+{
+  "query": [
+    {
+      "code": "Region",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "00"
+        ]
+      }
+    },
+    {
+      "code": "Fordonsslag",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "10"
+        ]
+      }
+    }
+  ],
+  "response": {
+    "format": "json"
+  }
+}
