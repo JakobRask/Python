@@ -3,3 +3,4 @@
 # SQL
 # Machine Learning
 # R-programmering
+# Deep Learning
