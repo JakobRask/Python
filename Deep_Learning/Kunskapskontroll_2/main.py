@@ -8,7 +8,7 @@ import av
 import numpy as np
 
 cascade = cv2.CascadeClassifier(r'haarcascade_frontalface_default.xml')
-model = load_model(r'model.keras')
+model = load_model(r'model.h5')
 model_2 = load_model(r'model_fine.keras')
 
 emotion_labels = ['Angry', 'Disgust', 'Fear', 'Happy', 'Neutral', 'Sad', 'Surprise']
