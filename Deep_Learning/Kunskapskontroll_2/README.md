@@ -16,5 +16,5 @@ This makes it interesting to compare the two models with your web-camera and eva
 
 # Streamlit app
 
-* Download the files and use pip to install streamlit and streamlit_webrtc
+* Download the files and use pip to install streamlit and streamlit_webrtc (and other libraries from requirements.txt that are not already installed)
 * Run main.py from terminal ("streamlit run main.py")
