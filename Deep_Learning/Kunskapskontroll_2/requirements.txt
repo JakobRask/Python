@@ -2,6 +2,4 @@ streamlit
 streamlit_webrtc
 tensorflow
 keras
-cv2
-av
 numpy
