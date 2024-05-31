@@ -3,3 +3,5 @@ streamlit_webrtc
 tensorflow
 keras
 numpy
+av
+opencv-python
