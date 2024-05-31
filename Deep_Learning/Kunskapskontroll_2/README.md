@@ -2,6 +2,7 @@
 
 The project is based on the Emotion Detection video from Akshit Madan's Youtube channel.  
 https://www.youtube.com/watch?v=Bb4Wvl57LIk 
+
 The aim for this project is to build an web-camera app which can recognize 6 different face expressions;
 Angry, Disgust, Fear, Happy, Neutral, Sad and Surprise
 
