@@ -6,7 +6,8 @@ https://www.elprisetjustnu.se/elpris-api
 
 By creating an automated task using Task Scheduler in Windows the script is executed at a certain time every day.
 
-![Scheduler](https://github.com/user-attachments/assets/8fd6ad12-9819-4831-bf7a-962d634dc368)
+![Scheduler](https://github.com/user-attachments/assets/198d12bc-6c5a-4c76-bbb5-36f576d20222)
+
 
 
 
