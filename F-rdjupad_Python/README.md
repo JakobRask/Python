@@ -1,10 +1,11 @@
 ﻿# ETL-project
 
-Using the API for elprisetjustnu.se the script gets the prices for tomorrow (if available) and ...
+Using the API for elprisetjustnu.se the script gets the hourly prices for tomorrow (if available) and plots a barplot.
 https://www.elprisetjustnu.se/elpris-api
 
 
-By creating an automated task using Windows Task Scheduler the script is executed at a certain time every day.
+By creating an automated task using Task Scheduler in Windows the script is executed at a certain time every day.
+
 ![Scheduler](https://github.com/user-attachments/assets/8fd6ad12-9819-4831-bf7a-962d634dc368)
 
 
@@ -13,5 +14,7 @@ By creating an automated task using Windows Task Scheduler the script is execute
 To ensure we get the data we want, a visualization is made wich displays the date and if the data is for today or tomorrow.
 Data for tomorrow is available after 13:00 each day.
 Data extraction made before 13:00 will result in getting the data for today.
+
 ![image](https://github.com/user-attachments/assets/b4b5e77f-fb38-49be-b56c-1f8492f044c2)
+
 Data extraction made after 13:00 should result in getting the data for tomorrow.
