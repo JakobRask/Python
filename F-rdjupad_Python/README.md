@@ -17,4 +17,5 @@ Data extraction made before 13:00 will result in getting the data for today, as 
 
 Data extraction made after 13:00 should result in getting the data for tomorrow, as seen below.
 
-![image](https://github.com/user-attachments/assets/cd2005eb-df6c-4335-b1f3-f105c95602c6)
+![image](https://github.com/user-attachments/assets/f8321386-9b5e-4422-8dfa-73a1f0a05d55)
+
