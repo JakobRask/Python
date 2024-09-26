@@ -1,4 +1,4 @@
-﻿# ETL-project
+﻿# Scheduled pipeline project
 
 Using the API for elprisetjustnu.se the script gets the hourly prices for tomorrow (if available).<br>
 https://www.elprisetjustnu.se/elpris-api <br>
@@ -19,4 +19,4 @@ Data extraction made after 13:00 should result in getting the data for tomorrow,
 
 ![image](https://github.com/user-attachments/assets/2339a794-d643-4cac-b1fa-ce31a6e100ee)
 
-
+Depending on if we get data for today or tomorrow the log will look a bit different, as seen in logs/log_pipeline.log
