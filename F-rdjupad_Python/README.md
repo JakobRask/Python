@@ -19,4 +19,4 @@ Data extraction made after 13:00 should result in getting the data for tomorrow,
 
 ![image](https://github.com/user-attachments/assets/2339a794-d643-4cac-b1fa-ce31a6e100ee)
 
-Depending on if we get data for today or tomorrow the log will look a bit different, as seen in logs/log_pipeline.log
+Depending on if we get data for today or tomorrow the log will look a bit different, as seen in <i>logs/log_pipeline.log</i>
