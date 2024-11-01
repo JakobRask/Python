@@ -4,3 +4,5 @@
 ## Machine Learning
 ## R-programmering
 ## Deep Learning
+## Fördjupad Pythonprogrammering
+## Projektkurs
